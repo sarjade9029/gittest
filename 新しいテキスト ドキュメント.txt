@@ -1,2 +1,6 @@
 git!!
+<<<<<<< HEAD
 hel?
+=======
+hel
+>>>>>>> burabchia
